@@ -1,5 +1,5 @@
 # A020324
-A020324 - Custom USB-C to TTL serial adapter for the "MBC series" (Z80-MBC2, V20-MBC, 68K-MBC) boards.
+A020324 - Custom USB-C to TTL serial adapter for the "MBC series" boards (Z80-MBC2, V20-MBC, 68K-MBC).
 
 PCB is 2 layers 48mm x 25mm.
 
