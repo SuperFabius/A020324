@@ -3,6 +3,8 @@ A020324 - Custom USB-C to TTL serial adapter for the "MBC series" boards (Z80-MB
 
 PCB is 2 layers 48mm x 25mm.
 
+Assembly example using a CH340G:
+
 ![Alt text](https://github.com/SuperFabius/A020324/blob/main/A020324%20front.jpg)
 
 
@@ -11,9 +13,9 @@ PCB is 2 layers 48mm x 25mm.
 
 ![Alt text](https://github.com/SuperFabius/A020324/blob/main/A020324%20example.jpg)
 
+Assembly example using a CH340C:
 
 ![Alt text](https://github.com/SuperFabius/A020324/blob/main/A020324%20example_2.jpg)
-
 
 
 ![Alt text](https://github.com/SuperFabius/A020324/blob/main/A020324%20example_3.jpg)
