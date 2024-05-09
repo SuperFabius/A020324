@@ -10,3 +10,10 @@ PCB is 2 layers 48mm x 25mm.
 
 
 ![Alt text](https://github.com/SuperFabius/A020324/blob/main/A020324%20example.jpg)
+
+
+![Alt text](https://github.com/SuperFabius/A020324/blob/main/A020324%20example_2.jpg)
+
+
+
+![Alt text](https://github.com/SuperFabius/A020324/blob/main/A020324%20example_3.jpg)
